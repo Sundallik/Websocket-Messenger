@@ -1,4 +1,4 @@
-# Чат на вебсокетах
+# Мессенджер на вебсокетах
 
 Laravel 11, PHP, MySQL, Vue, Inertia, Breeze, Tailwind, Pusher
 
